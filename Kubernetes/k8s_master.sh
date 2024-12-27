@@ -1,5 +1,3 @@
-# Kubernetes 1:30 Setup Steps
-
 ## Script for Master Node
 ```bash
 #!/bin/bash
